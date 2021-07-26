@@ -37,3 +37,19 @@ Licesnse for replication and distribution for this software is shown below:
 
   hashcat uses some third party software and libraries whose license terms and
   license holders can be found in the docs/license_libs/ folder.
+  
+  # Algorithms 
+  
+- MD4
+- MD5
+- SHA1
+- SHA2-224
+- SHA2-256
+- SHA2-384
+- SHA2-512
+- SHA3-224
+- SHA3-256
+- SHA3-384
+- SHA3-512
+
+Check Hashcat's official website for more algorithms and detailed information. (https://hashcat.net/hashcat/)
