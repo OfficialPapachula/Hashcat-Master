@@ -38,6 +38,15 @@ Licesnse for replication and distribution for this software is shown below:
   hashcat uses some third party software and libraries whose license terms and
   license holders can be found in the docs/license_libs/ folder.
   
+  # Attack Modes
+  
+ - Straight 
+ - Combination
+ - Brute-force
+ - Hybrid dict + mask
+ - Hybrid mask + dict
+ - Association 
+  
   # Algorithms 
   
 - MD4
