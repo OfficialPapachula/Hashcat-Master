@@ -8,6 +8,8 @@ Hash.txt - add hashes you would like to crack.
 
 Cracked.txt - cracked hashes will appear here. 
 
+# License
+
 Licesnse for replication and distribution for this software is shown below:
 
   The MIT License (MIT)
